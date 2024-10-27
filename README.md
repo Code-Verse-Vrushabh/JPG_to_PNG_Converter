@@ -38,7 +38,7 @@ Run the script from the command line with the following syntax:
 
 ## Example
 
-  python JPG_to_PNG_Converter.py Pokedex New
+    python JPG_to_PNG_Converter.py Pokedex New
 
 This will convert all images in the `\Pokedex` folder to PNG and save them in the `\New` folder.
 
